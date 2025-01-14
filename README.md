@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Mayank Chouhan
+A Passionate Full Stack developer from India  
+mynkchn  
 
-<!--
-**mynkchn/mynkchn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Outrage Clothing Website
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Django, Artificial Intelligence, and Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Python, Django 
+
+📫 How to reach me: mynkchn.pu@gmail.com  
+
+## Connect with me:  
+[www.linkedin.com/in/
+mayank-chouhan-b12940288
+Vanity URL name]  
+
+## Languages and Tools:  
+- C
+- Python
+- JavaScript
+- Java
+- HTML
+- CSS
+- AWS
