@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mayank Chouhan
-A Passionate Full Stack developer from India  
+A aspiring Python Developer from India  
 mynkchn  
 
 🔭 I’m currently working on Outrage Clothing Website
