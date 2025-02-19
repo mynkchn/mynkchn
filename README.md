@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SaaS Foundation](https://saasfoundations-production-014d.up.railway.app/)
 
-- 🌱 I’m currently learning **Django , React , Data Analysis**
+- 🌱 I’m currently learning **Django , Data Science**
 
 - 💬 Ask me about **Python**
 
