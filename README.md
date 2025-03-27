@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Chouhan</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-- 🔭 I’m currently working on [SaaS Foundation](https://saasfoundations-production-014d.up.railway.app/)
+- 🔭 I’m currently working on building models to find solutions
 
 - 🌱 I’m currently learning **Django , Data Science**
 
