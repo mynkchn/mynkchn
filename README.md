@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on building models to find solutions
 
-- 🌱 I’m currently learning **Django , Data Science**
+- 🌱 I’m currently learning **Django , Data Science , Big Data , AWS**
 
 - 💬 Ask me about **Python**
 
