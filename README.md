@@ -1,35 +1,28 @@
-<h1 align="center">Hi, I'm Mayank Chouhan</h1>
+<h1 align="center">Mayank Chouhan</h1>
 <h3 align="center">IBM Certified Data Science Professional | Python Developer | AI & ML Enthusiast</h3>
 
-I am a dedicated Python developer and certified Data Science professional with a strong foundation in machine learning, data analysis, and backend development. I am currently engaged in an AI/ML project with the Vadodara Municipal Corporation (VMC), where I am leveraging data science methodologies to drive impactful solutions.
+---
 
-- Currently working on: AI/ML-based solutions for VMC using real-world data
-- IBM Certified: [Data Science Professional Certificate](https://www.credly.com/badges/your-badge-link)  
-- Actively learning: Deep Learning, Big Data, AWS, Django Advanced Concepts
-- Open to collaborate on: Data Science, ML, AI, Django-based projects
-- Contact: mynkchn.pu@gmail.com
+I am a Python developer and certified Data Science professional with experience in backend development, machine learning, and data analysis. Currently contributing to AI/ML-driven projects for the Vadodara Municipal Corporation (VMC), I focus on developing real-world solutions using data science methodologies.
+
+- **Current Work**: AI/ML applications for urban analytics (VMC)
+- **Certification**: [IBM Data Science Professional Certificate – Coursera](https://coursera.org/share/e6b61c16dc72826b21328cae6d23fa2a)
+- **Learning Focus**: Deep Learning, Big Data, AWS, Django (Advanced)
+- **Open To Collaborate On**: AI/ML, Data Science, Django-based applications
+- **Contact**: mynkchn.pu@gmail.com
 
 ---
 
-<h2>Professional Certifications</h2>
+## Certifications
 
-- **IBM Data Science Professional Certificate**
-  - Topics covered: Python, SQL, Pandas, NumPy, Data Analysis, Visualization, Machine Learning, Jupyter, APIs, Web Scraping, Capstone Projects
-
----
-
-<h2>Connect with Me</h2>
-
-<a href="https://linkedin.com/in/mayank-chouhan-b12940288" target="_blank">
-  LinkedIn: Mayank Chouhan
-</a>
+- **IBM Data Science Professional Certificate**  
+  Covered: Python, SQL, Pandas, NumPy, Data Analysis, Data Visualization, Web Scraping, APIs, Jupyter, Machine Learning, Capstone Projects
 
 ---
 
-<h2>Skills Portfolio</h2>
+## Skills Snapshot
 
-<h3>Web Development</h3>
-
+### Web Development
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
@@ -39,8 +32,7 @@ I am a dedicated Python developer and certified Data Science professional with a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
 </p>
 
-<h3>Data Science & Machine Learning</h3>
-
+### Data Science & Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
@@ -56,27 +48,25 @@ I am a dedicated Python developer and certified Data Science professional with a
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
 </p>
 
-<ul>
-  <li>Neural Networks</li>
-  <li>Supervised & Unsupervised Learning</li>
-  <li>Model Evaluation & Optimization</li>
-  <li>Classification, Regression, Clustering</li>
-  <li>Feature Engineering & Selection</li>
-</ul>
+**Key Areas**:
+- Neural Networks
+- Supervised & Unsupervised Learning
+- Model Evaluation & Tuning
+- Classification, Regression, Clustering
+- Feature Engineering
 
-<h3>Tools and Platforms</h3>
+---
 
-- Jupyter Notebook
-- Google Colab
-- Visual Studio Code
-- Streamlit
-- Postman
-- Railway
-- Docker (basic)
-- Linux Command Line (basic)
+## Tools & Platforms
 
-<h3>Version Control</h3>
+- Jupyter Notebook, Google Colab  
+- Visual Studio Code, Streamlit  
+- Postman, Railway, Docker (basic)  
+- Linux CLI (basic)
 
+---
+
+## Version Control
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -84,32 +74,39 @@ I am a dedicated Python developer and certified Data Science professional with a
 
 ---
 
-<h2>GitHub Stats</h2>
+## GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynkchn&show_icons=true&locale=en&layout=compact" alt="mynkchn" /></p>
-
----
-
-<h2>Projects In Progress</h2>
-
-- **Dr. Charaka - AI Healthcare Assistant**
-  - Objective: Build a chatbot to assist doctors using AI
-  - Technologies: Django, LLMs, Streamlit, SQLite, Open Source Transformers
-  - Features: Chat history, PDF generation, WhatsApp integration
-
-- **Data Whisperer**
-  - Objective: A platform where users can interact with their uploaded datasets to gain visual insights, predictions, and automated reports
-  - Stack: Flask, Pandas, Seaborn, Scikit-learn, PDF Generator, Chat Interface
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mynkchn&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-<h2>Future Focus</h2>
+## Projects in Progress
 
-- Deep Learning (CNNs, RNNs, Transformers)
-- Big Data Analytics
-- AWS Cloud Deployment
-- Full Stack ML Applications
+### Dr. Charaka – AI Healthcare Assistant  
+An AI-powered chatbot for doctors to get medical assistance and predictive insights.  
+**Tech Stack**: Django, LLMs, Streamlit, SQLite  
+**Features**: Chat UI, PDF reports, WhatsApp integration
+
+### Data Whisperer  
+A platform to analyze uploaded datasets through natural language interaction, with automated visualizations and predictions.  
+**Tech Stack**: Flask, Pandas, Seaborn, Scikit-learn, PDFGen
 
 ---
 
-Feel free to connect and collaborate. Let’s build something impactful.
+## Learning Roadmap
+
+- Deep Learning: CNNs, RNNs, Transformers  
+- Scalable ML Systems  
+- Big Data Tools  
+- Cloud & AWS-based Deployment
+
+---
+
+## Connect
+
+[LinkedIn: Mayank Chouhan](https://linkedin.com/in/mayank-chouhan-b12940288)  
+📧 Email: mynkchn.pu@gmail.com
+
+---
