@@ -1,111 +1,120 @@
-<h1 align="center">Mayank Chouhan</h1>
-<h3 align="center">IBM Certified Data Science Professional | Python Developer | AI & ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-Data Science professional with expertise in Python development, machine learning, and backend systems. Currently developing AI/ML solutions for urban analytics at Vadodara Municipal Corporation (VMC).
-</p>
+# Hi, I'm Mayank Chouhan
 
----
+### Aspiring Python Developer | IBM Certified Data Scientist | AI & ML Enthusiast
 
-## Current Focus
-
-- AI/ML applications for smart city solutions at VMC
-- Deep Learning & Neural Networks implementation
-- Django-based web application development
-- Cloud deployment and scalable ML systems
-
-## Certifications
-
-**IBM Data Science Professional Certificate** - [Verify Credential](https://coursera.org/share/e6b61c16dc72826b21328cae6d23fa2a)
-
-*Comprehensive coverage: Python, SQL, Data Analysis, Machine Learning, Data Visualization, Web Scraping, APIs*
+*Transforming data into insights and building intelligent solutions*
 
 ---
 
-## Technical Skills
+## Current Mission
+Building AI/ML solutions for smart city initiatives at **Vadodara Municipal Corporation (VMC)**  
+Specializing in urban analytics and scalable ML systems
 
-### Programming & Web Development
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</p>
+</div>
 
-### Data Science & Machine Learning
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80" height="40"/>
-</p>
+---
+
+## Achievements
+
+<div align="center">
+
+[![IBM Data Science Certificate](https://img.shields.io/badge/IBM-Data_Science_Professional-blue?style=for-the-badge&logo=ibm)](https://coursera.org/share/e6b61c16dc72826b21328cae6d23fa2a)
+
+</div>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Tools & Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Core Competencies:**
-- Machine Learning: Supervised/Unsupervised Learning, Neural Networks, Model Evaluation
-- Data Analysis: Statistical Analysis, Feature Engineering, Data Visualization
-- Web Development: Full-stack Django applications, RESTful APIs
-- Database Management: SQL, Data Modeling, Query Optimization
+</div>
 
 ---
 
 ## Featured Projects
 
 ### Dr. Charaka – AI Healthcare Assistant
-AI-powered medical consultation chatbot for healthcare professionals
-- **Technology Stack:** Django, Large Language Models, Streamlit, SQLite
-- **Key Features:** Interactive chat interface, automated PDF report generation, WhatsApp integration
-- **Impact:** Streamlined medical consultation workflow
+An intelligent medical consultation platform that can be considered a breakthrough in healthcare accessibility. This AI-powered chatbot assists healthcare professionals by providing instant medical insights, generating comprehensive PDF reports, and integrating seamlessly with WhatsApp for enhanced communication. The system leverages advanced language models to understand medical queries and provide evidence-based responses, potentially revolutionizing how medical consultations are conducted.
+
+**Technology Stack:** Django, Large Language Models, Streamlit, SQLite, WhatsApp API
 
 ### Data Whisperer
-Natural language dataset analysis and visualization platform
-- **Technology Stack:** Flask, Pandas, Scikit-learn, Matplotlib
-- **Key Features:** Automated data insights, predictive modeling, interactive visualizations
-- **Impact:** Democratized data analysis for non-technical users
+A revolutionary platform that can be considered the future of democratized data analysis. This natural language processing system allows users to interact with datasets using plain English, automatically generating insights, visualizations, and predictive models. The platform bridges the gap between complex data science techniques and business users, making data-driven decision making accessible to everyone regardless of technical expertise.
+
+**Technology Stack:** Flask, Pandas, Scikit-learn, Matplotlib, Natural Language Processing
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mynkchn&show_icons=true&locale=en&layout=compact&hide=html,css,javascript&langs_count=6&theme=default" alt="Most Used Languages" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynkchn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchn&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
 
-## Professional Development
+</div>
 
-**Currently Learning:**
-- Advanced Deep Learning architectures (CNNs, RNNs, Transformers)
-- Big Data processing and distributed computing
-- AWS cloud services and MLOps practices
-- Advanced Django patterns and microservices
+<div align="center">
 
-**Areas of Interest:**
-- Computer Vision and Natural Language Processing
-- Time Series Analysis and Forecasting
-- Recommendation Systems
-- AI Ethics and Responsible ML
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynkchn&theme=radical)
+
+</div>
 
 ---
 
-## Contact Information
+## Currently Growing
 
-**Email:** mynkchn.pu@gmail.com  
-**LinkedIn:** [Mayank Chouhan](https://linkedin.com/in/mayank-chouhan-b12940288)  
-**Location:** Harda, Madhya Pradesh, India
+**Advanced Deep Learning** - Exploring cutting-edge architectures including CNNs, RNNs, and Transformers for complex pattern recognition and natural language understanding
 
-**Open to collaborate on:** AI/ML research projects, Data Science applications, Django web development, Open source contributions
+**AWS Cloud Services & MLOps** - Building scalable, production-ready machine learning pipelines with automated deployment and monitoring
+
+**Microservices Architecture** - Designing distributed systems for enterprise-level applications with Django and containerization
+
+**Computer Vision & NLP** - Developing intelligent systems that can see, understand, and interpret visual and textual data
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mynkchn.pu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-chouhan-b12940288)
+[![Location](https://img.shields.io/badge/Harda,_MP-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Data is the new oil, and I'm here to refine it into intelligence"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=mynkchn&color=blueviolet&style=for-the-badge)
+
+</div>
