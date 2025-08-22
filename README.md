@@ -2,7 +2,7 @@
 
 # Mayank Chouhan
 
-### Aspiring Python Developer | IBM Certified Data Scientist | AI & ML Enthusiast
+### Aspiring Python Developer | IBM Certified Data Science Professional | AI & ML Enthusiast
 
 ```python
 class MayankChouhan:
