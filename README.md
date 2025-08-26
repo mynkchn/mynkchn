@@ -21,9 +21,7 @@ class MayankChouhan:
 ---
 
 ## Current Focus
-Building AI/ML solutions for smart city initiatives at **Vadodara Municipal Corporation (VMC)**  
-Specializing in urban analytics and scalable ML systems
-
+Building AI/ML solutions for smart city initiatives
 ---
 
 ## Achievements
