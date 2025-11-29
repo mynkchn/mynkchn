@@ -3,19 +3,6 @@
 # Mayank Chouhan
 
 ### Aspiring Python Developer | IBM Certified Data Science Professional | AI & ML Enthusiast
-
-```python
-class MayankChouhan:
-    def __init__(self):
-        self.role = "Aspiring Python Developer"
-        self.location = "Vadodara, Gujarat"
-        self.current_mission = "Building Smart City Solutions at VMC"
-        self.passion = ["AI/ML", "Data Science", "Web Development"]
-        
-    def say_hello(self):
-        return "Thanks for dropping by! Let's build something amazing together!"
-```
-
 </div>
 
 ---
