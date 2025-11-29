@@ -79,20 +79,6 @@ A revolutionary platform that can be considered the future of democratized data 
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mynkchn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchn&layout=compact&langs_count=8&theme=radical&include_all_commits=true&count_private=true"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mynkchn&theme=radical)
-
-</div>
 
 ---
 
@@ -121,11 +107,6 @@ A revolutionary platform that can be considered the future of democratized data 
 ---
 
 <div align="center">
-
-```python
-def future_vision():
-    return "Building intelligent solutions that bridge the gap between data and decision-making"
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mynkchn&color=blueviolet&style=for-the-badge)
 
