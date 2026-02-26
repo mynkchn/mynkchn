@@ -5,12 +5,6 @@
 ### Aspiring Python Developer | IBM Certified Data Science Professional | AI & ML Enthusiast
 </div>
 
----
-
-## Current Focus
-Building AI/ML solutions for smart city initiatives
----
-
 ## Achievements
 
 <div align="center">
@@ -76,21 +70,6 @@ An intelligent medical consultation platform that can be considered a breakthrou
 A revolutionary platform that can be considered the future of democratized data analysis. This natural language processing system allows users to interact with datasets using plain English, automatically generating insights, visualizations, and predictive models. The platform utilizes Flask for lightweight web services, scikit-learn for machine learning capabilities, and advanced visualization libraries including Plotly, Matplotlib, and Seaborn for comprehensive data presentation.
 
 **Key Technologies:** Flask, Pandas, Scikit-learn, NLTK, Plotly, Matplotlib, Seaborn, NumPy, SciPy
-
----
-
-
----
-
-## Currently Learning
-
-**Advanced Deep Learning** - Exploring architectures including CNNs, RNNs, and Transformers using TensorFlow, Keras, and PyTorch for complex pattern recognition
-
-**Cloud Services & MLOps** - Building scalable, production-ready machine learning pipelines with automated deployment and monitoring
-
-**Advanced Data Visualization** - Creating interactive dashboards and analytical tools using Plotly Dash and Streamlit
-
-**Natural Language Processing** - Developing text processing applications with NLTK and advanced NLP techniques
 
 ---
 
