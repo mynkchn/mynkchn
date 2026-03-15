@@ -86,5 +86,5 @@ Topics      Arrays · Strings · Linked Lists · Trees · Graphs · Dynamic Prog
 ---
 
 <div align="center">
-<sub>Vadodara, Gujarat · Available for Summer 2026 · <a href="mailto:mynkchn.pu@gmail.com">mynkchn.pu@gmail.com</a></sub>
+<sub>Vadodara, Gujarat · Available for Summer 2026 · <a href="mailto:mynkchn.pu@gmail.com">mynkchnn@gmail.com</a></sub>
 </div>
