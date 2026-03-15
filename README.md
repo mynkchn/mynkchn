@@ -26,7 +26,7 @@ degree   : B.Tech Computer Science — 6th Semester
 location : Vadodara, Gujarat, India
 status   : Seeking Summer Internship 2026 (SDE / Data Science / ML)
 cert     : IBM Data Science Professional — Coursera
-leetcode : 550+ problems solved (solo)
+leetcode : 550+ problems solved 
 ```
 
 ---
