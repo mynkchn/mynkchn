@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Mayank+Chouhan)](https://github.com/mynkchn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Python+%2F+Backend+%2F+ML+%2F+Data+Science;B.Tech+CSE+%E2%80%94+6th+Semester;650%2B+LeetCode+Problems;)](https://github.com/mynkchn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=Python+%2F+Backend+%2F+ML+%2F+Data+Science;B.Tech+CSE+%E2%80%94+6\7th+Semester;650%2B+LeetCode+Problems;)](https://github.com/mynkchn)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ```yaml
 name     : Mayank Chouhan
-degree   : B.Tech Computer Science — 6th Semester
+degree   : B.Tech Computer Science — 7th Semester
 location : Vadodara, Gujarat, India
 status   : Seeking Summer Internship 2026 (SDE / Data Science / ML)
 cert     : IBM Data Science Professional — Coursera
