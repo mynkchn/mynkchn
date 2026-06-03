@@ -27,7 +27,6 @@ name     : Mayank Chouhan
 degree   : B.Tech Computer Science — 7th Semester
 location : Vadodara, Gujarat, India
 role     : AI Researcher — Deccan AI (Freelance)
-focus    : LLM Training · Red Teaming · Alignment Research
 cert     : IBM Data Science Professional — Coursera
 leetcode : 700+ problems solved
 ```
@@ -72,23 +71,7 @@ Topics      Arrays · Strings · Linked Lists · Trees · Graphs · Dynamic Prog
             Recursion · Hashing · Heaps · Binary Search · Sliding Window · Stacks · Queues
 ```
 
----
 
-### Stats
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=mynkchn&show_icons=true&theme=github_dark&hide_border=true&count_private=true&hide_title=true&rank_icon=github&icon_color=58A6FF" />
-  &nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkchn&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide_title=true" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=mynkchn&theme=github-dark-blue&hide_border=true" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <sub>Vadodara, Gujarat · AI Researcher at Deccan AI · <a href="mailto:mynkchn.pu@gmail.com">mynkchn.pu@gmail.com</a></sub>
